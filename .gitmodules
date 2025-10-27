@@ -4,3 +4,6 @@
 [submodule "Intermediate"]
 	path = Intermediate
 	url = git@github.com:ToniBirat7/Backend_Engineering_Intermediate.git
+[submodule "Beginners"]
+	path = Beginners
+	url = git@github.com:ToniBirat7/Backend_Engineering_Beginner.git
