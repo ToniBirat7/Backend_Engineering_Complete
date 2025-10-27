@@ -1,3 +1,6 @@
 [submodule "Advanced"]
 	path = Advanced
 	url = git@github.com:ToniBirat7/Backend_Engineering_Advanced.git
+[submodule "Intermediate"]
+	path = Intermediate
+	url = git@github.com:ToniBirat7/Backend_Engineering_Intermediate.git
